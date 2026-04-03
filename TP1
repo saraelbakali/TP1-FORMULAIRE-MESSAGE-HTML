@@ -1,0 +1,97 @@
+<title>mon emploi du temps</title>
+</head>
+<P align="center">
+<img src="c:\Users\hp\Pictures\Screenshot 2026-03-24 at 20-01-06 mon emploi du temps (2).png">
+</P>
+<img src="c:\Users\hp\Pictures\image.png"
+<div>
+<h3 style="text-align: right;"></style><U>Annee Universitaire 2025-2026</U></p>
+<h3 align="center">Emploi Du Temps provisoire - IAIL-S2</h3>
+</div>
+<body>
+<table border="1" align="center" style="width:100%;font-size :14px;">
+<tr>
+<th ></th>
+<th bgcolor="silver">9h30 A 10h30</th>
+<th bgcolor="silver">10h30 A 12h00</th>
+<th bgcolor="silver">12h15 A 13h45</th>
+<th bgcolor="silver">13h45A 15h15</th>
+<th bgcolor="silver"> 15H30 A 17h</th>
+<th bgcolor="silver"> 17h A 18h30</th>
+</tr>
+<tr>
+<td bgcolor="silver">Lundi</td>
+<td>Algorithm python 2<br><a href="message_prof.html">Prof M.laraqui</a><br>cour emph 
+A</td>
+<td>Algorithme Et<br>programmation C2<br><a href="message_prof.html">Prof 
+H.oudani</a><br>cours-Amph A</td>
+<td></td>
+<td>Algorithme Et programmation C2
+<p style="color: red;">td/tp Grp1-salle P2</p>
+<a href="message_prof.html">Prof H.oudani</a></td>
+<td>Programmation python 2<br>
+[21:49, 03/04/2026] Douha: style="color: red;">td/tp Grp 3-salle P2</P><a href="message_prof.html">Prof 
+A.Elourdi</a></td>
+<td>Programmation python 2<P style="color: red;">td/tp Grp 2-salle P2</P><a
+href="message_prof.html">Prof A.Elourdi</a></td>
+</tr>
+<tr>
+<td bgcolor="silver">Mardi</td>
+<td>Programmation python 2<P style="color: red;">td/tp Grp 2-salle P2</P><a
+href="message_prof.html">Prof A.Elourdi</a></td>
+<td></td>
+<td>Digital skills &<br>Iintelligence Artificielle<br>cours-Amph A<br><a
+href="message_prof.html">Prof A.Elourdi</a></td>
+<td> Digital skills & Iintelligence Artificielle<br>cours-Amph A<br><a
+href="message_prof.html">Prof A.Elourdi</a></td>
+<td></td>
+<td >
+<tr>
+<td bgcolor="silver">Mercredi</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Algorithme Et programmation C2<P style="color: red;">td/Tp Grp2-salle 
+p2</P><a href="message_prof.html">Prof H.oudani</a></td>
+<td>Algebre 2<br>TD-Amphi A<br><a href="message_prof.html">Prof 
+I.Boutaaymo</a></td>
+<td>Analyse 2<br>td-Amphi A<br><a href="message_prof.html">Prof 
+A.Hadiri</a></td>
+</tr>
+<tr>
+<td bgcolor="silver">jeudi</td>
+<td>Traitement Du Singnal<br>cours - Amphi A<br><a
+href="message_prof.html">Prof H.AZZahlafi</a></td>
+<td>Traitement Du Singnal<br>cours - Amphi A Pprof<br><a
+href="message_prof.html">Prof H.AZZahlafi</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td bgcolor="silver">Vendredi</td>
+<td>Algebre 2<br>cours-Amphi C<br><a href="message_prof.html">Prof 
+I.Boutaaymo</a></td>
+<td>Analyse 2<br>cours-Amphi C<br><a href="message_prof.html">Prof 
+A.Hadiri</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td bgcolor="silver">Samedi</td>
+<td></td>
+<td></td>
+<td></td>
+<td>programmation Web 1<P style="color:red ;">Td/Tp G2-Salle P2</P><a
+href="message_prof.html">Prof K.Omari</a></td>
+<td>programmation Web 1<br>Cours-salle P1 <a href="message_prof.html">Prof 
+K.Omari</a></td>
+<td>programmation Web 1<br><P style="color:red ;">Td/Tp G1-Salle P2</P><a
+href="message_prof.html">Prof K.Omari</a></td>
+</tr>
+</tabl>
+</body>
+</html>
